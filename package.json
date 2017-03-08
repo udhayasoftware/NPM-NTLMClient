@@ -1,8 +1,8 @@
 {
-  "name": "NTLMClient",
+  "name": "ntlm-client",
   "version": "1.0.0",
   "description": "NTLM authentication support for Requests.",
-  "main": "NTLMClient.js",
+  "main": "ntlmclient.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
