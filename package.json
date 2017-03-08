@@ -1,0 +1,31 @@
+{
+  "name": "NTLMClient",
+  "version": "1.0.0",
+  "description": "NTLM authentication support for Requests.",
+  "main": "NTLMClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/udhayasoftware/NPM-NTLMClient.git"
+  },
+  "keywords": [
+    "ntlm",
+    "request",
+    "nodejs",
+    "client",
+    "authentication",
+    "udhay"
+  ],
+  "dependencies": {
+	"request":"2.53.0",
+	"agentkeepalive":"0.2.3"
+  },
+  "author": "Udhayamoorthy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/udhayasoftware/NPM-NTLMClient/issues"
+  },
+  "homepage": "https://github.com/udhayasoftware/NPM-NTLMClient"
+}
