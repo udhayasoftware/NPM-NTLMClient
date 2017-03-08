@@ -1,5 +1,5 @@
 
-var NTLMClient = require("NTLMClient");
+var NTLMClient = require("@udhayamoorthy/ntlm-client");
 
 var config = {
     username: 'username',
